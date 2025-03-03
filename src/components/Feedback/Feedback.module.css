@@ -1,0 +1,17 @@
+.container {
+    margin-top: 24px;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.list li {
+    margin-bottom: 8px;
+}

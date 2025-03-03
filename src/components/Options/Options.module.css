@@ -1,0 +1,29 @@
+.options {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.options button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    transition: all 0.3s ease;
+}
+
+
+
+.options button:hover {
+    background-color: #f0f0f0;
+}
+
+
+.options button:active {
+    background-color: #e0e0e0;
+    transform: scale(0.98);
+
+}

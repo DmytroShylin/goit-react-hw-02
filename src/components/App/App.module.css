@@ -1,0 +1,17 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+  
+  .description {
+    text-align: center;
+    color: #666;
+    margin-bottom: 24px;
+  }
